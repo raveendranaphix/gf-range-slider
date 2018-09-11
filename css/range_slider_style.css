@@ -1,0 +1,8 @@
+output {
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0;
+	width: 100%;
+}
