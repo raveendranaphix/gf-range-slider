@@ -1,2 +1,2 @@
 # gf-range-slider
-Gravity Form - Range slider add-on
+A simple range slider addon for Gravity Forms WordPress plugin
